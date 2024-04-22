@@ -42,11 +42,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KubilayKilic/KubilayKilic/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRnd2U5NGJmZzk4d25zMHd0ZTN0YWZscDZzOHY4aGRtN3NreGhlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7pmmDVQ6AixW/giphy.gif"  />
