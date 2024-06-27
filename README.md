@@ -1,4 +1,4 @@
-<h1 align="center">🚀Do or do not. There is no try.🌃</h1>
+<h1 align="center">🚀  🌃</h1>
 
 ###
 
