@@ -51,10 +51,19 @@
 
 ###
 
+###
+
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRnd2U5NGJmZzk4d25zMHd0ZTN0YWZscDZzOHY4aGRtN3NreGhlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7pmmDVQ6AixW/giphy.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KubilayKilic/count.svg?"  />
+  <img src="[https://profile-counter.glitch.me/KubilayKilic/count.svg?](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI0ODh3aGo1anR1aGRldmk3dW0yMnVibTV0dmUyc2xvNG9yeWhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5etbdwXL2jba/giphy.gif)"  />
 </div>
 
 ###
