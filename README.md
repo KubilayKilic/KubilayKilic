@@ -54,9 +54,3 @@
 
 <br clear="both">
 
-###
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{KubilayKilic}/count.svg" alt="Visitor Count" />
-</p>
-
