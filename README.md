@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/KubilayKilic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FD49A0&center=true&vCenter=true&width=560&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+fan+sites%2C+tools+and+browser+extensions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FD49A0&center=true&vCenter=true&width=720&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+fan+sites%2C+tools+and+browser+extensions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,12 +52,7 @@
 <h3 align="center">📊 GitHub</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KubilayKilic&show_icons=true&hide_border=true&bg_color=16141c&title_color=FD49A0&icon_color=bf8bff&text_color=d6d3e0&rank_icon=github" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubilayKilic&layout=compact&hide_border=true&bg_color=16141c&title_color=FD49A0&text_color=d6d3e0&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KubilayKilic&bg_color=16141c&color=d6d3e0&line=FD49A0&point=a2d2ff&area=true&area_color=965cdd&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" />
+  <img src="https://streak-stats.demolab.com?user=KubilayKilic&background=16141c&stroke=965cdd&ring=FD49A0&fire=FD49A0&currStreakNum=d6d3e0&sideNums=d6d3e0&currStreakLabel=a2d2ff&sideLabels=a2d2ff&dates=8a8696&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
