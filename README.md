@@ -22,7 +22,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🌃 About me
+<img width="100%" src="title-about.svg" alt="about me" />
 
 - 💻 Frontend developer — **React, Next.js, TypeScript**
 - 🧩 Side projects: fan-site platforms, browser extensions, small dev tools
@@ -39,7 +39,7 @@
 
 <br>
 
-<h3 align="center">🛠️ Tech stack</h3>
+<p align="center"><img width="80%" src="title-stack.svg" alt="tech stack" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,jquery&theme=dark" alt="Frontend" />
@@ -49,7 +49,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub</h3>
+<p align="center"><img width="80%" src="title-github.svg" alt="github" /></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KubilayKilic&background=16141c&stroke=965cdd&ring=FD49A0&fire=FD49A0&currStreakNum=d6d3e0&sideNums=d6d3e0&currStreakLabel=a2d2ff&sideLabels=a2d2ff&dates=8a8696&hide_border=true" alt="GitHub streak" />
