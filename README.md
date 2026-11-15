@@ -61,5 +61,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a2d2ff,50:FD49A0,100:965cdd&height=110&section=footer" />
+  <img width="100%" src="footer.svg" alt="thanks for stopping by" />
 </p>
