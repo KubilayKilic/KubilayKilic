@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:965cdd,50:FD49A0,100:a2d2ff&height=190&section=header&text=Kubilay%20Kaan%20K%C4%B1l%C4%B1%C3%A7&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%F0%9F%9A%80%20%F0%9F%8C%83&descSize=18&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:965cdd,50:FD49A0,100:a2d2ff&height=190&section=header&text=Kubilay%20Kaan%20K%C4%B1l%C4%B1%C3%A7&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%F0%9F%9A%80%20%F0%9F%8C%83&descSize=18&descAlignY=58" />
 </p>
 
 <p align="center">
@@ -24,10 +24,9 @@
 
 ### 🌃 About me
 
-- 💻 Frontend developer — **React, Next.js, TypeScript**
-- 🧩 Side projects: fan-site platforms, browser extensions, small dev tools
-- 🎮 Games, sci-fi and anime fuel most of my side projects
-
+💻 Frontend developer — **React, Next.js, TypeScript**
+🧩 Side projects: fan-site platforms, browser extensions, small dev tools
+🎮 Games, sci-fi and anime fuel most of my side projects
 </td>
 <td width="45%" align="center" valign="middle">
 
@@ -50,10 +49,6 @@
 <br>
 
 <h3 align="center">📊 GitHub</h3>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-customize.svg" alt="3D contribution city" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KubilayKilic&background=16141c&stroke=965cdd&ring=FD49A0&fire=FD49A0&currStreakNum=d6d3e0&sideNums=d6d3e0&currStreakLabel=a2d2ff&sideLabels=a2d2ff&dates=8a8696&hide_border=true" alt="GitHub streak" />
