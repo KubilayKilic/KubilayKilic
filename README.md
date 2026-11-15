@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/KubilayKilic">
-    <img src="typing.svg" alt="React • Next.js • TypeScript — building fan sites, tools and browser extensions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FD49A0&center=true&vCenter=true&width=720&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+fan+sites%2C+tools+and+browser+extensions" alt="Typing SVG" />
   </a>
 </p>
 
