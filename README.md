@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:965cdd,50:FD49A0,100:a2d2ff&height=190&section=header&text=Kubilay%20Kaan%20K%C4%B1l%C4%B1%C3%A7&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%F0%9F%9A%80%20%F0%9F%8C%83&descSize=18&descAlignY=58" />
+  <img width="100%" src="header.svg" alt="Kubilay Kaan Kılıç" />
 </p>
 
 <p align="center">
@@ -24,9 +24,10 @@
 
 ### 🌃 About me
 
-💻 Frontend developer — **React, Next.js, TypeScript**
-🧩 Side projects: fan-site platforms, browser extensions, small dev tools
-🎮 Games, sci-fi and anime fuel most of my side projects
+- 💻 Frontend developer — **React, Next.js, TypeScript**
+- 🧩 Side projects: fan-site platforms, browser extensions, small dev tools
+- 🎮 Games, sci-fi and anime fuel most of my side projects
+
 </td>
 <td width="45%" align="center" valign="middle">
 
