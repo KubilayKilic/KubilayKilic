@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/KubilayKilic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FD49A0&center=true&vCenter=true&width=720&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+fan+sites%2C+tools+and+browser+extensions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FD49A0&center=true&vCenter=true&width=720&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,24 +18,9 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-<img width="100%" src="title-about.svg" alt="about me" />
-
-- 💻 Frontend developer — **React, Next.js, TypeScript**
-- 🧩 Side projects: fan-site platforms, browser extensions, small dev tools
-- 🎮 Games, sci-fi and anime fuel most of my side projects
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI0ODh3aGo1anR1aGRldmk3dW0yMnVibTV0dmUyc2xvNG9yeWhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5etbdwXL2jba/giphy.gif" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI0ODh3aGo1anR1aGRldmk3dW0yMnVibTV0dmUyc2xvNG9yeWhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5etbdwXL2jba/giphy.gif" />
+</p>
 
 <br>
 
